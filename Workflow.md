@@ -26,7 +26,7 @@
 
 1. 前端 Javascript 代码规范, [Google](https://google.github.io/styleguide/jsguide.html)
 2. 后端 Python 代码规范, [pep8](https://www.python.org/dev/peps/pep-0008/), [Google](https://google.github.io/styleguide/pyguide.html)
-3. 后端 Go 代码规范
+3. 后端 Go 代码规范 [Go](https://github.com/golang/go/wiki/CodeReviewComments)
 
 ## Git相关规范
 
