@@ -1,2 +1,1 @@
-# 101datumx-contribution-guideline
-The guidelines that all contributors of 101DatumX must follow.
+Please visit https://github.com/rockl2e/101datumx-contribution-guideline/wiki 
